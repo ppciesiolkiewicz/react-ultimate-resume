@@ -155,6 +155,8 @@
   "Footer.link.message": "Get to know me more, discover my profile on @welovedevs ➡️ {link}",
   "Footer.shareLinks.copyUrl": "Copy profile's URL",
   "Footer.shareLinks.shareOnTooltip": "Share on {platform}",
+  "Footer.socialLinks.github": "Check out my projects on {platform}",
+  "Footer.socialLinks.linkedIn": "Visit my {platform} profile",
   "Form.Url.input.title": "Enter an url",
   "Form.validation.global.changeNumber": "Please change this field's default value",
   "Form.validation.global.date.mustBeAfter": "End date must be after start date",
